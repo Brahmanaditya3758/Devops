@@ -4,7 +4,6 @@ datePublished: Fri Mar 28 2025 06:16:58 GMT+0000 (Coordinated Universal Time)
 cuid: cm8se3wtf001609jv5sly0qpo
 slug: linux-basics-day-02-mastering-essential-terminal-commands
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743142520075/5ce13d09-2f26-413d-a0dd-09b04a949358.png
-tags: linux, aws, 90daysofdevops, shubhamlondhe, 90daysofdevopschallenge, tws
 
 ---
 
