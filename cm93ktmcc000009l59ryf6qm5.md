@@ -1,8 +1,8 @@
 ---
-title: "🚀 Day 8 Task: Basic Git & GitHub for DevOps Engineers."
+title: "🚀 (Day 06) Task: Basic Git & GitHub for DevOps Engineers."
 datePublished: Sat Apr 05 2025 02:10:23 GMT+0000 (Coordinated Universal Time)
 cuid: cm93ktmcc000009l59ryf6qm5
-slug: day-8-task-basic-git-and-github-for-devops-engineers
+slug: day-06-task-basic-git-and-github-for-devops-engineers
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743819005759/93715624-1751-4fb6-9ae0-29405c6366ae.jpeg
 tags: github, git, 90daysofdevops, version-control-systems, 90daysofdevops-chanllenge, 90daysofdevopschallenge, tws, trainwithshubham-tws-devops-devopscommunity-shubhamlondhe-automation-awswithtws-7daysofaws-aws-cli
 
