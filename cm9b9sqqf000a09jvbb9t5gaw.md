@@ -156,19 +156,19 @@ This is your personal system where you:
 | ***Component*** | ***What It Does*** |
 | --- | --- |
 
-<table><tbody><tr><td colspan="1" rowspan="1" colwidth="342"><p>Chef Workstation</p></td><td colspan="1" rowspan="1"><p>Where you write &amp; test code.</p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="1" rowspan="1" colwidth="312"><p>Chef Workstation</p></td><td colspan="1" rowspan="1"><p>Where you write &amp; test code.</p></td></tr></tbody></table>
 
-<table><tbody><tr><td colspan="1" rowspan="1" colwidth="343"><p>Chef Server</p></td><td colspan="1" rowspan="1"><p>Central storage of all configuration.</p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="1" rowspan="1" colwidth="313"><p>Chef Server</p></td><td colspan="1" rowspan="1"><p>Central storage of all configuration.</p></td></tr></tbody></table>
 
-<table><tbody><tr><td colspan="1" rowspan="1" colwidth="341"><p>Chef Node</p></td><td colspan="1" rowspan="1"><p>The server that gets configured.</p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="1" rowspan="1" colwidth="313"><p>Chef Node</p></td><td colspan="1" rowspan="1"><p>The server that gets configured.</p></td></tr></tbody></table>
 
-<table><tbody><tr><td colspan="1" rowspan="1" colwidth="341"><p>Chef Client</p></td><td colspan="1" rowspan="1"><p>A tool on the node that pulls and applies configuration.</p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="1" rowspan="1" colwidth="314"><p>Chef Client</p></td><td colspan="1" rowspan="1"><p>A tool on the node that pulls and applies configuration.</p></td></tr></tbody></table>
 
-<table><tbody><tr><td colspan="1" rowspan="1" colwidth="342"><p>Knife</p></td><td colspan="1" rowspan="1"><p>CLI tool to upload code to server.</p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="1" rowspan="1" colwidth="315"><p>Knife</p></td><td colspan="1" rowspan="1"><p>CLI tool to upload code to server.</p></td></tr></tbody></table>
 
-<table><tbody><tr><td colspan="1" rowspan="1" colwidth="341"><p>Recipe</p></td><td colspan="1" rowspan="1"><p>A script(code) that installs/configures software.</p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="1" rowspan="1" colwidth="318"><p>Recipe</p></td><td colspan="1" rowspan="1"><p>A script(code) that installs/configures software.</p></td></tr></tbody></table>
 
-<table><tbody><tr><td colspan="1" rowspan="1" colwidth="344"><p>Cookbook</p></td><td colspan="1" rowspan="1"><p>A collection of related recipes/files/templates</p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="1" rowspan="1" colwidth="318"><p>Cookbook</p></td><td colspan="1" rowspan="1"><p>A collection of related recipes/files/templates</p></td></tr></tbody></table>
 
 ## 🌐 **2\. Chef Server** (🧠 The Central Brain) :-
 
