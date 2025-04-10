@@ -3,6 +3,7 @@ title: "(Day 08) Task : Understanding Chef: A Powerful Configuration Management 
 datePublished: Thu Apr 10 2025 11:23:56 GMT+0000 (Coordinated Universal Time)
 cuid: cm9b9sqqf000a09jvbb9t5gaw
 slug: day-08-task-understanding-chef-a-powerful-configuration-management-tool-for-devops
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744284265328/1df03be4-39de-4589-bb04-32331ffe72ee.jpeg
 tags: chef, tws, technicalguftgu, day8-90daysofdevops, chefcookbook-configurationmanagement-devops-infrastructureascode-chefrecipes-automation-itoperations-chefcommunity-sysadmin-itinfrastructure, twsbashblazechallenge, twsbashblazechallenge-trainwithshubham, twscommunity
 
 ---
