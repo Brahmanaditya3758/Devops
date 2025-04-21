@@ -1,0 +1,469 @@
+---
+title: "Linux Commands(Day 03) : Advanced Command-Line Techniques and Automation"
+datePublished: Sat Mar 29 2025 05:58:39 GMT+0000 (Coordinated Universal Time)
+cuid: cm8tsw7hy000m09l5hynp9h21
+slug: linux-commandsday-03-advanced-command-line-techniques-and-automation
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743227832916/c3ec1739-f027-4fab-ad93-7c708c80bd1d.jpeg
+tags: linux, devops, linux-for-beginners, devops-articles, linux-commands, devops-journey, tws, trainwithshubham-tws-devops-devopscommunity-shubhamlondhe-automation-awswithtws-7daysofaws-aws-cli
+
+---
+
+## File and Directory Management:
+
+### ls:
+
+* Purpose: Lists directory contents.
+    
+* Example: ls -la (shows details, including hidden files).
+    
+    ```apache
+     ls -la
+    ```
+    
+
+### cd:
+
+* Purpose: Changes current directory.
+    
+* Example: cd directoryname.
+    
+    ```apache
+    cd dir2
+    ```
+    
+
+### pd:
+
+* Purpose: Prints current directory path.
+    
+* Example : pwd.
+    
+* output: /home/user
+    
+    ```apache
+    pwd
+    ```
+    
+
+### mkdir:
+
+* Purpose: Creates a new directory.
+    
+* Example: mkdir directory\_name.
+    
+    ```apache
+    mkdir directory_name
+    ```
+    
+
+### r/rmdir :
+
+* Purpose: Deletes files or directories.
+    
+
+Examples:
+
+* rm-rf :- Forcefully removes even non empty files and directory.
+    
+* rm-rp :- Removes non empty directory including parent and sub directory.
+    
+* rm-r :- Removes empty directory.
+    
+* rm-rf\*:- Removes all directory & files except hidden files.
+    
+* rmdir :- Removes the specified directory.
+    
+* rmdir-p :- Remove parent & child directory.
+    
+* rmdir-pv :- Remove all parent & sub directories along with verbose.
+    
+    ```apache
+    rmdir directory_name
+    ```
+    
+
+### cp:
+
+* Purpose: Copies files or directories.
+    
+* Example : cp file\_name ***(Source)*** file\_name ***(destination).***
+    
+    Data of file1 will be overwritten to file2.
+    
+    ```apache
+    cp file1 file2
+    ```
+    
+
+### mv:
+
+* Purpose: Moves files into directories or renames files.
+    
+    **Note:** Directory can also be move to directory but file can’t move to file.
+    
+
+Examples:
+
+* mv File\_name ***(Source)*** Directory\_name***(Destination)***. {used to move file to directory}
+    
+* mv File\_name ***(oldname)*** File\_name***(Newname).*** {used to rename file or directory}
+    
+    ```apache
+    mv File1 Dir1
+    mv File1 Myfile
+    ```
+    
+
+### touch:
+
+* Purpose: Creates a single or many empty File and used to change timestamp of a file or update any one type of time of a file.
+    
+    Example : touch file\_name
+    
+
+**Time Stamp: Every file has three types of time associated with it.**
+
+* **Access time:-** Last time when a file was accessed.
+    
+    Example : touch-a (it will change access time to current time)
+    
+* **Modify time:-** Last time when a file was modified.
+    
+    Example : touch -m (it will change modify time to current time)
+    
+* **Change time:-** Last time when file meta data was changed.
+    
+    Example : touch -c (it will change change time to current time)
+    
+    ```apache
+    touch file1
+    touch -a
+    touch -m
+    touch -c
+    ```
+    
+
+## File Viewing and Editing:
+
+### cat:
+
+Purpose: Creates Single File , Combine two or more files to make one , To add new content in same file , To display file content.
+
+Example :
+
+* cat &gt; file\_name {used to create file}
+    
+* cat file\_name {used to show content inside file}
+    
+* cat file1\_name file2\_name » file3\_name {Data of file1 & file2 will be combined and data will be shown into file3}
+    
+* cat » file\_name { since content can’t be edit but new content can be added}
+    
+    ```apache
+    cat > file1
+    cat file1
+    cat file1 file2 » file3
+    cat » file1
+    ```
+    
+
+### **less:**
+
+* Purpose: Views files page by page.
+    
+* Example: less file\_name.
+    
+    ```apache
+    less file1
+    ```
+    
+
+### **more:**
+
+* Purpose: Views files (simpler than less).
+    
+* Example: more file\_name.
+    
+    ```apache
+    more file1
+    ```
+    
+
+### **nano:**
+
+* Purpose: Edits text files (beginner-friendly).
+    
+* Example: nano file\_name (Ctrl+O → Ctrl+X → Y to exit).
+    
+    ```apache
+     nano file1
+    ```
+    
+
+### **vim:**
+
+* Purpose: Edits text files (advanced).
+    
+* Example: vim file\_name(i to edit, :wq to save/quit).
+    
+    ```apache
+    vim file1
+    ```
+    
+
+### **head:**
+
+* Purpose: Shows first 10 lines of a file.
+    
+* Example: head file\_name (first 10 lines).
+    
+    ```apache
+    head file1
+    ```
+    
+
+### **tail:**
+
+* Purpose: Shows last 10 lines of a file.
+    
+* Example: tail file\_name(last 10 lines).
+    
+    ```apache
+    tail file1
+    ```
+    
+
+## Permissions and Ownership
+
+### **chmod:**
+
+* Purpose: Modifies file/directory permissions.
+    
+* Example: chmod 777 directory\_name.
+    
+
+### **chown:**
+
+* Purpose: Changes file/directory ownership.
+    
+* Example: chown username file\_name/directory\_name.
+    
+
+### chgrp:
+
+* Purpose: Changes file/directory group.
+    
+* Example: chgrp groupname file\_name/directory\_name
+    
+
+### **ls -l:**
+
+* Purpose: Displays permissions and details.
+    
+* Example: ls -l.
+    
+    ```apache
+    chmod 777 dir1
+    chown username file1
+    chgrp groupname file
+    ```
+    
+
+## Networking:
+
+### **ping:**
+
+* Purpose: Tests network connectivity.
+    
+* Example: ping [google.com](http://google.com).
+    
+
+### **curl:**
+
+* Purpose: Fetches data from URLs.
+    
+* Example: curl [https://example.com](https://example.com).
+    
+
+### **wget:**
+
+* Purpose: Downloads files from the web.
+    
+* Example: wget &lt;url&gt;.
+    
+
+### **ifconfig:**
+
+* Purpose: Shows same as windows ip config tells us ip & ethernet and Nid of our machine.
+    
+* Example: ifconfig.
+    
+
+### **ip:**
+
+* Purpose: Manages network settings (modern).
+    
+* Example: ip addr (shows IP addresses).
+    
+    ```apache
+    ping google.com.
+    curl https://example.com
+    wget https://example.com/file.txt
+    ifconfig
+    ip addr
+    ```
+    
+
+## Task: What is the linux command to
+
+### ***To view what's written in a file.***
+
+* **cat – View Entire File.**
+    
+    ```apache
+    cat filename
+    ```
+    
+
+### ***To change the access permissions of files.***
+
+* **chmod - change mode.**
+    
+    ```apache
+    chmod mode filename
+    ```
+    
+* mode: can be numeric (755) or symbolic (u+rwx).
+    
+* filename is the file or directory whose permissions you want to change.
+    
+
+### ***To check which commands you have run till now.***
+
+* **history :**\- This will display a numbered list of all previously executed commands.
+    
+
+```apache
+history
+```
+
+### ***To remove a directory/ Folder.***
+
+* Use the **rmdir** command if the directory is empty.
+    
+* Use the **rm-r** command.
+    
+    ```apache
+    rmdir myfolder
+    rm -r dir1
+    ```
+    
+
+### ***To create a fruits.txt file and to view the content.***
+
+* Using **touch.**
+    
+* Using **cat.**
+    
+* Using **vim/vi .**
+    
+* Using **nano.**
+    
+    ```apache
+    touch fruits.txt
+    cat > fruits.txt
+    vim fruits.txt
+    nano fruits.txt
+    
+    # To view :
+    cat fruits.txt
+    ```
+    
+
+### ***Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.***
+
+* Using **echo with \\n**.
+    
+* Using **cat.**
+    
+    ```apache
+    echo -e "Apple\nMango\nBanana\nCherry\nKiwi\nOrange\nGuava" > devops.txt
+    cat >> devops.txt
+    # now editor will open after cat command and we'll put manually 
+    Apple
+    Mango
+    Banana
+    Cherry
+    Kiwi
+    Orange
+    Guava
+    ```
+    
+
+### ***To Show only top three fruits from the file.***
+
+* **head** command will be used.
+    
+    ```apache
+    head -n 3 devops.txt
+    ```
+    
+
+### ***To Show only bottom three fruits from the file.***
+
+* **tail** command will be used.
+    
+    ```apache
+    tail -n 3 devops.txt
+    ```
+    
+
+### ***To create another file Colors.txt and to view the content.***
+
+* Using **touch.**
+    
+* Using **cat.**
+    
+* Using **vim/vi .**
+    
+* Using **nano.**
+    
+    ```apache
+    touch Colors.txt 
+    cat > Colors.txt 
+    vim Colors.txt 
+    nano Colors.txt 
+    
+    # To view :
+    cat Colors.txt 
+    ```
+    
+
+### ***Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.***
+
+* Using **echo with \\n.**
+    
+* Using **cat.**
+    
+    ```apache
+    echo -e "Red\nPink\nWhite\nBlack\nBlue\nOrange\nPurple\nGrey" > Colors.txt
+    cat >> Colors.txt
+    # now editor will open after cat command and we'll put manually 
+    Red
+    Pink
+    White
+    Black
+    Blue
+    Orange
+    Purple
+    Grey
+    ```
+    
+
+### ***To find the difference between fruits.txt and Colors.txt file.***
+
+* Using **diff** to Compare Files.
+    
+    ```apache
+    diff fruits.txt Colors.txt
+    ```
