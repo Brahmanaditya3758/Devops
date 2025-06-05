@@ -159,3 +159,5 @@ kubectl get nodes
 # kubectl label nodes ip-172-31-92-99 kubernetes.io/role=worker
 # kubectl config set-context $(kubectl config current-context) --namespace=dev
 ```
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749099062788/edd37aca-178f-4886-b4b0-0a2193b47f44.png align="center")
