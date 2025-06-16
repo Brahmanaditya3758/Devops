@@ -1,8 +1,8 @@
 ---
-title: "Day 28: Kubernetes Labels and Selectors:-"
+title: "(Day 29) Task : Kubernetes Labels and Selectors:-"
 datePublished: Sun Jun 15 2025 11:47:54 GMT+0000 (Coordinated Universal Time)
 cuid: cmbxlpsfp000002l51f488k4j
-slug: day-28-kubernetes-labels-and-selectors
+slug: day-29-task-kubernetes-labels-and-selectors
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749988016860/27786e7f-cd5a-4417-9b53-d9f6c7f2cdf2.png
 tags: kubernetes, devops, k8s, 2articles1week, k8scluster, technicalguftgu, labels-and-selectors-kubernetes
 
