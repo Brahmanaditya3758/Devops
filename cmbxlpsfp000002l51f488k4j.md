@@ -1,5 +1,5 @@
 ---
-title: "(Day 29) Task : Kubernetes Labels and Selectors:-"
+title: "(Day 28) Task : Kubernetes Labels and Selectors:-"
 datePublished: Sun Jun 15 2025 11:47:54 GMT+0000 (Coordinated Universal Time)
 cuid: cmbxlpsfp000002l51f488k4j
 slug: day-29-task-kubernetes-labels-and-selectors
