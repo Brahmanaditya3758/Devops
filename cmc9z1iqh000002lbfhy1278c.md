@@ -3,7 +3,7 @@ title: "(Day 31) Task : Understanding Kubernetes Networking: Services Explained 
 datePublished: Tue Jun 24 2025 03:34:11 GMT+0000 (Coordinated Universal Time)
 cuid: cmc9z1iqh000002lbfhy1278c
 slug: day-31-task-understanding-kubernetes-networking-services-explained-with-nodeport-and-real-time-examples
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750735997183/45aee635-574b-43f9-bda4-8459bd6388cd.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750736276917/8f0c4222-47e1-408c-b5e8-45a3e10c6925.png
 tags: kubernetes-kubeadm-devops-cloudcomputing-aws-ec2-containers-docker-k8s-linux-ubuntu-systemadministration-selfhosted-networking-cicd-automation-infrastructureascode-rbac-security-monitoring-logging-techblog-learning-opensource-career
 
 ---
