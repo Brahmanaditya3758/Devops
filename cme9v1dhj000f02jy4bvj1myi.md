@@ -3,6 +3,7 @@ title: "90 Days of DevOps - Kicking Off My College Major Project!"
 datePublished: Wed Aug 13 2025 11:01:30 GMT+0000 (Coordinated Universal Time)
 cuid: cme9v1dhj000f02jy4bvj1myi
 slug: 90-days-of-devops-kicking-off-my-college-major-project
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1755082937912/9b96502b-957f-464b-9ac4-6c01dcba2ea8.png
 tags: project-management, 90daysofdevops, 90daysofdevops-chanllenge, 90daysofdevopschallenge
 
 ---
