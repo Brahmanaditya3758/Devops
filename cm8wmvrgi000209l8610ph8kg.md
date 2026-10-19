@@ -1,6 +1,6 @@
 ---
 title: "Linux Shell Scripting (Day 04): Basic Linux Shell Scripting for DevOps Engineers 🚀"
-datePublished: Mon Mar 31 2025 05:33:39 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-31T05:33:39.906Z
 cuid: cm8wmvrgi000209l8610ph8kg
 slug: linux-shell-scripting-day-04-basic-linux-shell-scripting-for-devops-engineers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743399035234/dbb42cf0-060a-46f3-9b39-24b0e4286260.jpeg
