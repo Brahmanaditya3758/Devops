@@ -1,6 +1,6 @@
 ---
 title: "(Day 24) Task : Kubernetes Architecture Explained :-"
-datePublished: Tue Jun 03 2025 05:27:24 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-03T05:27:24.297Z
 cuid: cmbg2u8ax000009jn80sc45bw
 slug: day-24-task-kubernetes-architecture-explained
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748928301641/b39876ac-55f2-4a25-a99d-2da5aee56476.png
