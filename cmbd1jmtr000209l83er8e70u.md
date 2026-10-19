@@ -1,6 +1,6 @@
 ---
 title: "(Day 22) Task : What is Maven & Why use it :-"
-datePublished: Sun Jun 01 2025 02:27:51 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-01T02:27:51.759Z
 cuid: cmbd1jmtr000209l83er8e70u
 slug: day-22-task-what-is-maven-and-why-use-it
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748744284936/7af23f12-9461-4df5-b4d8-37459bcb6c1f.png
