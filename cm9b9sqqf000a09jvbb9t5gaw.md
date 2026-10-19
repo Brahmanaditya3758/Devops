@@ -1,6 +1,6 @@
 ---
 title: "(Day 08) Task : Understanding Chef: A Powerful Configuration Management Tool for DevOps :-"
-datePublished: Thu Apr 10 2025 11:23:56 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-10T11:23:56.631Z
 cuid: cm9b9sqqf000a09jvbb9t5gaw
 slug: day-08-task-understanding-chef-a-powerful-configuration-management-tool-for-devops
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744284265328/1df03be4-39de-4589-bb04-32331ffe72ee.jpeg
