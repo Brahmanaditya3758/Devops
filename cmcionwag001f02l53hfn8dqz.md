@@ -1,6 +1,6 @@
 ---
 title: "(Day 33) Task :  Kubernetes Services – Solving the Problem of Dynamic Pod IPs Using Virtual IPs:-"
-datePublished: Mon Jun 30 2025 05:53:35 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-30T05:53:35.032Z
 cuid: cmcionwag001f02l53hfn8dqz
 slug: day-33-task-kubernetes-services-solving-the-problem-of-dynamic-pod-ips-using-virtual-ips
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1751262700034/51a8734d-2798-4466-ac5a-bb5b03a943d6.png
