@@ -1,6 +1,6 @@
 ---
 title: "(Day 27) Task : Mastering Kubernetes: Writing YAML Manifests and Managing Pods :-"
-datePublished: Tue Jun 10 2025 04:33:16 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-10T04:33:16.897Z
 cuid: cmbq0zl9d000s02la2y3z4vg8
 slug: day-27-task-mastering-kubernetes-writing-yaml-manifests-and-managing-pods
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749529870987/5cf5e909-a8ca-4956-9c27-60d21b8b6f72.png
