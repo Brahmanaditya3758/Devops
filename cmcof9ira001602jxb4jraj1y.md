@@ -1,6 +1,6 @@
 ---
 title: "(Day 36) Task :  Kubernetes ConfigMaps & Secrets :-"
-datePublished: Fri Jul 04 2025 06:17:04 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-07-04T06:17:04.822Z
 cuid: cmcof9ira001602jxb4jraj1y
 slug: day-36-task-kubernetes-configmaps-and-secrets
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1751609789820/01c0a56d-2901-49d7-aac7-ee6d7d041991.png
