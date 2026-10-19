@@ -1,6 +1,6 @@
 ---
 title: "(Day 35) Task : Kubernetes Persistent Volumes & Liveness Probes"
-datePublished: Wed Jul 02 2025 09:02:14 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-07-02T09:02:14.643Z
 cuid: cmclqa7w3000d02joa31xbjto
 slug: day-35-task-kubernetes-persistent-volumes-and-liveness-probes
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1751446817656/bca03ed7-3026-40a9-8cc5-5c206641c672.png
