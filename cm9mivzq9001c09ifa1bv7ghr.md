@@ -1,6 +1,6 @@
 ---
 title: "(Day 10) Task : Understanding Docker — The Backbone of Modern DevOps :-"
-datePublished: Fri Apr 18 2025 08:23:52 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-18T08:23:52.737Z
 cuid: cm9mivzq9001c09ifa1bv7ghr
 slug: day-10-task-understanding-docker-the-backbone-of-modern-devops
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744964565351/11ae7be8-b8d0-404a-8632-a32152f79449.png
