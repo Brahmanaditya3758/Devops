@@ -1,6 +1,6 @@
 ---
 title: "(Day 13) Task : Docker Volumes & Sharing :-"
-datePublished: Sun May 04 2025 04:39:40 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-04T04:39:40.814Z
 cuid: cma95xatq000809laekipfxqy
 slug: day-13-task-docker-volumes-and-sharing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746332923895/7da90d22-cc4b-4e9d-9fd4-f21bbc57c10b.png
