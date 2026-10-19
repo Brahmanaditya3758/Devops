@@ -1,6 +1,6 @@
 ---
 title: "(Day 44) Task : Project Initialization, Planning & Workspace Setup"
-datePublished: Sun Jan 18 2026 06:55:22 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-18T06:55:22.701Z
 cuid: cmkjdtft9000602jr07rvdwhz
 slug: day-44-task-project-initialization-planning-and-workspace-setup
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768719098008/9cc6be04-ec95-43a5-b9a6-5cbf6a8e5b33.png
