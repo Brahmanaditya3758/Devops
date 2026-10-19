@@ -1,6 +1,6 @@
 ---
 title: "(Day 21) Task : How to Install Jenkins on Ubuntu (with Commands) :-"
-datePublished: Thu May 29 2025 06:03:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-29T06:03:00.152Z
 cuid: cmb8ywr07002108lahwjd2s0r
 slug: day-21-task-how-to-install-jenkins-on-ubuntu-with-commands
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748498514823/4bf30192-ca1e-4a4d-a4a9-b233844d5277.png
