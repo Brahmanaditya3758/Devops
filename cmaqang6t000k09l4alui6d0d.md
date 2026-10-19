@@ -1,6 +1,6 @@
 ---
 title: "(Day 15) Task : Push & pull Docker Image to DockerHub :-"
-datePublished: Fri May 16 2025 04:24:04 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-16T04:24:04.277Z
 cuid: cmaqang6t000k09l4alui6d0d
 slug: day-15-task-push-and-pull-docker-image-to-dockerhub-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747369380976/b109736b-25de-4331-86cc-51005063b860.webp
