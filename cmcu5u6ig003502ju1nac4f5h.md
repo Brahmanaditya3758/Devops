@@ -1,6 +1,6 @@
 ---
 title: "(Day 38) Task : Mastering Kubernetes Jobs in the Container and Pod Lifecycle :-"
-datePublished: Tue Jul 08 2025 06:39:49 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-07-08T06:39:49.624Z
 cuid: cmcu5u6ig003502ju1nac4f5h
 slug: day-38-task-mastering-kubernetes-jobs-in-the-container-and-pod-lifecycle
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1751956647494/9379a8af-9211-4458-b7c8-6734f23b21a8.png
