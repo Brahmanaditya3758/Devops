@@ -1,6 +1,6 @@
 ---
 title: "(Day 41) Task : Terraform Advanced Concepts – Multicloud, Multiregion, Providers, Variables, and Conditions :-"
-datePublished: Thu Jul 24 2025 03:01:13 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-07-24T03:01:13.505Z
 cuid: cmdgt2opt000702jn2lytes4s
 slug: day-41-task-terraform-advanced-concepts-multicloud-multiregion-providers-variables-and-conditions
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753325936475/3a82144b-b296-4ff5-8f91-765104b6470e.jpeg
