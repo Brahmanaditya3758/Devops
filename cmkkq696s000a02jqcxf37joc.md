@@ -1,6 +1,6 @@
 ---
 title: "(Day 45) Task : Backend Setup with Node.js, Express & First Working Server :-"
-datePublished: Mon Jan 19 2026 05:29:02 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-19T05:29:02.212Z
 cuid: cmkkq696s000a02jqcxf37joc
 slug: day-45-task-backend-setup-with-nodejs-express-and-first-working-server
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768800406427/d785095c-696b-48e3-9702-ed10ca6ee764.png
