@@ -1,6 +1,6 @@
 ---
 title: "(Day 09) Task : Chef Methodology , Cookbook  Generation :-"
-datePublished: Sun Apr 13 2025 13:14:06 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-13T13:14:06.294Z
 cuid: cm9fo1ys5000m09k17kx2d2io
 slug: day-09-task-chef-methodology-cookbook-generation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744549971736/cf9c4f23-a5b4-4fbb-8edd-7205776d5a46.webp
