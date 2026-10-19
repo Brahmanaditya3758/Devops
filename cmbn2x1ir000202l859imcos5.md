@@ -1,6 +1,6 @@
 ---
 title: "(Day 26) Task : Installing Minikube & Understanding Kubernetes Fundamentals :-"
-datePublished: Sun Jun 08 2025 03:03:58 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-08T03:03:58.707Z
 cuid: cmbn2x1ir000202l859imcos5
 slug: day-26-task-installing-minikube-and-understanding-kubernetes-fundamentals
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749351783268/ecad21b2-67d5-490e-933a-6bc84198b0a5.jpeg
