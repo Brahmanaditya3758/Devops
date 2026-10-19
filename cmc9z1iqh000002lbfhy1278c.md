@@ -1,6 +1,6 @@
 ---
 title: "(Day 31) Task : Understanding Kubernetes Networking: Services Explained with NodePort & Real-Time Examples :-"
-datePublished: Tue Jun 24 2025 03:34:11 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-24T03:34:11.226Z
 cuid: cmc9z1iqh000002lbfhy1278c
 slug: day-31-task-understanding-kubernetes-networking-services-explained-with-nodeport-and-real-time-examples
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750736276917/8f0c4222-47e1-408c-b5e8-45a3e10c6925.png
