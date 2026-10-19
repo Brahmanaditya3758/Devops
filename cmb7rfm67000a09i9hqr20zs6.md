@@ -1,6 +1,6 @@
 ---
 title: "(Day 20) Task : Jenkins- Linked Projects, Views, User Management & Master-Slave Concept :-"
-datePublished: Wed May 28 2025 09:45:57 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-28T09:45:57.247Z
 cuid: cmb7rfm67000a09i9hqr20zs6
 slug: day-20-task-jenkins-linked-projects-views-user-management-and-master-slave-concept
 tags: maven, devops, jenkins, user-management, maven-job
