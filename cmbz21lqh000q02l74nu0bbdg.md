@@ -1,6 +1,6 @@
 ---
 title: "(Day 29) Task : Scaling and Replication in Kubernetes:-"
-datePublished: Mon Jun 16 2025 12:12:46 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-16T12:12:46.025Z
 cuid: cmbz21lqh000q02l74nu0bbdg
 slug: day-29-task-scaling-and-replication-in-kubernetes
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750075930991/82d41454-56fe-40f2-afd2-f9cb4e39e712.png
