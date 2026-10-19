@@ -1,6 +1,6 @@
 ---
 title: "(Day 28) Task : Kubernetes Labels and Selectors:-"
-datePublished: Sun Jun 15 2025 11:47:54 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-15T11:47:54.805Z
 cuid: cmbxlpsfp000002l51f488k4j
 slug: day-29-task-kubernetes-labels-and-selectors
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749988016860/27786e7f-cd5a-4417-9b53-d9f6c7f2cdf2.png
