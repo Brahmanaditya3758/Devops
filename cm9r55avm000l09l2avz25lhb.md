@@ -1,6 +1,6 @@
 ---
 title: "(Day 11) Task : Docker Architecture & Docker Installation :-"
-datePublished: Mon Apr 21 2025 13:58:03 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-21T13:58:03.346Z
 cuid: cm9r55avm000l09l2avz25lhb
 slug: day-11-task-docker-architecture-and-docker-installation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1745243558513/1606ca7e-3303-44a3-a2b4-6e5145a0ce96.webp
