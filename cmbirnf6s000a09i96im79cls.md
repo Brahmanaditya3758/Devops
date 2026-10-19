@@ -1,6 +1,6 @@
 ---
 title: "(Day 25) Task : Setting Up Kubernetes Cluster on AWS :-"
-datePublished: Thu Jun 05 2025 02:37:29 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-05T02:37:29.381Z
 cuid: cmbirnf6s000a09i96im79cls
 slug: day-25-task-setting-up-kubernetes-cluster-on-aws
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749091021834/f0fd806b-85ed-4d20-9691-b2e56363e752.jpeg
