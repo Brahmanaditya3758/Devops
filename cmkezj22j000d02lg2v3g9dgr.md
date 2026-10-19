@@ -1,6 +1,6 @@
 ---
 title: "From Learning to Building: My 5-Month Project Journey"
-datePublished: Thu Jan 15 2026 05:04:19 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-15T05:04:19.003Z
 cuid: cmkezj22j000d02lg2v3g9dgr
 slug: from-learning-to-building-my-5-month-project-journey
 
