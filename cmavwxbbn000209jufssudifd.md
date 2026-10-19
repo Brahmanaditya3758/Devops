@@ -1,6 +1,6 @@
 ---
 title: "(Day 16) Task : What is Ansible? A Complete Beginner's Guide :-"
-datePublished: Tue May 20 2025 02:46:26 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-20T02:46:26.963Z
 cuid: cmavwxbbn000209jufssudifd
 slug: day-16-task-what-is-ansible-a-complete-beginners-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747708764047/4c8ac4ce-aafb-4bb0-9428-dee19b6a68dc.png
