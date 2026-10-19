@@ -1,6 +1,6 @@
 ---
 title: "(Day 12) Task : Dockerfile Components & different commands :-"
-datePublished: Sun Apr 27 2025 10:09:14 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-27T10:09:14.793Z
 cuid: cm9zhm5ux000109lg69bpdt0w
 slug: day-12-task-dockerfile-components-and-different-commands
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1745748435583/756d651a-f6f0-44b9-aa82-f52ab06f6c81.png
