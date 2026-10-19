@@ -1,6 +1,6 @@
 ---
 title: "(Day 17) Task : What is CI/CD Pipeline & Jenkins :-"
-datePublished: Sat May 24 2025 10:37:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-24T10:37:41.961Z
 cuid: cmb23ir49000s09kzc6zw7kpx
 slug: day-17-task-what-is-cicd-pipeline-and-jenkins
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748082604404/950bdba3-466a-4472-9716-73e5bcc3f79b.jpeg
