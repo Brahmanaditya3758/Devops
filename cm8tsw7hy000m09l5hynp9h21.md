@@ -1,6 +1,6 @@
 ---
 title: "Linux Commands(Day 03) : Advanced Command-Line Techniques and Automation"
-datePublished: Sat Mar 29 2025 05:58:39 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-03-29T05:58:39.862Z
 cuid: cm8tsw7hy000m09l5hynp9h21
 slug: linux-commandsday-03-advanced-command-line-techniques-and-automation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743227832916/c3ec1739-f027-4fab-ad93-7c708c80bd1d.jpeg
