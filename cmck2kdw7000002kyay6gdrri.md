@@ -1,6 +1,6 @@
 ---
 title: "(Day 34) Task :  Kubernetes Services – Part 2: NodePort, LoadBalancer & Headless Services & Volume :-"
-datePublished: Tue Jul 01 2025 05:10:32 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-07-01T05:10:32.023Z
 cuid: cmck2kdw7000002kyay6gdrri
 slug: day-34-task-kubernetes-services-part-2-nodeport-loadbalancer-and-headless-services-and-volume
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1751346252357/398e3d7b-66fc-4c12-9c76-fd88fc6c03d9.png
