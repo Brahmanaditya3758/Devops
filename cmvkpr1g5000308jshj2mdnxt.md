@@ -4,6 +4,7 @@ datePublished: 2026-10-23T08:33:58.060Z
 cuid: cmvkpr1g5000308jshj2mdnxt
 slug: day-49-task-launching-an-ec2-web-server
 cover: https://cdn.hashnode.com/uploads/covers/67e296ceba50f8341dadb994/da44bbc6-c3e8-455d-b494-f5dc80d87d05.png
+tags: ubuntu, ec2, aws, nginx
 
 ---
 
